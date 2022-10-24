@@ -3,7 +3,12 @@
 <h2 align="center">A novice student and developer living in Russia.😎</h3>
 <h3 aligin="left"> I'm studying web development in college. I have a little dream: to become a popular IT recruiter. To do this, I try to write code and understand IT technology.</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siberik&theme=solarized_dark)
+<div class="wrapper">
+
+[![Siberik GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=siberik&hide_border=true&theme=redical)](https://github.com/siberik)
+
+<div align="center">
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
