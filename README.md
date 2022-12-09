@@ -5,7 +5,6 @@
 
 <div class="wrapper">
 
-[![Siberik GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=siberik&hide_border=true&theme=redical)](https://github.com/siberik)
 
 <div align="center">
 
